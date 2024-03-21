@@ -2,9 +2,9 @@
 
 Below are video demonstrations of the Augmented Reality feature for our brochure, as well as a direct link to the website we created for the brochure, and a link to the Github repo behind the website.
 
-## The Augmented Reality Experience
+## The Augmented Reality (AR) Experience
 
-The brochure contains two QR codes: one on the front page and one on the unfolded interior. Scanning these QR codes, and subsequently holding the brochure in front of the camera, opens the augmented reality brochure on the user's phone. Demonstrations of this are shown below.
+The brochure contains two QR codes for the AR experience: one on the front page and one on the unfolded interior. Scanning these QR codes, and subsequently holding the brochure in front of the camera, opens the augmented reality brochure on the user's phone. Demonstrations of this are shown below.
  
 ### Front Page
 
@@ -16,7 +16,7 @@ The brochure contains two QR codes: one on the front page and one on the unfolde
 
 ## The Website
 
-The website is linked on the back of the brochure under the last QR code. The website shows multimedia assets, the main original research paper, citations, and further reading for those interested in learning more.
+The website is linked on the back of the brochure under a third QR code. The website shows multimedia assets, the main original research paper, citations, and further reading for those interested in learning more.
 
 The website can be accessed here: [Website](https://mb4323.github.io/biomimetics-brochure/)
 
