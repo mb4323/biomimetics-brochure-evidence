@@ -8,11 +8,11 @@ The brochure contains two QR codes: one on the front page and one on the unfolde
  
 ### Front Page
 
-![front-page-brochure-1](https://github.com/mb4323/biomimetics-brochure-evidence/assets/162570911/4bdcfc49-747e-42ab-b66e-800e0ddd2ad9)
+![front-page-brochure-1](https://github.com/mb4323/biomimetics-brochure-evidence/assets/162570911/5fe7bd92-89f5-46e4-b3d8-d80e8b7ec038)
 
 ### Interior Page
 
-![interior-brochure-1](https://github.com/mb4323/biomimetics-brochure-evidence/assets/162570911/2e096aa9-bd27-4f01-9e93-2ecfabe5fe08)
+![interior-brochure-1](https://github.com/mb4323/biomimetics-brochure-evidence/assets/162570911/4bdcfc49-747e-42ab-b66e-800e0ddd2ad9)
 
 ## The Website
 
