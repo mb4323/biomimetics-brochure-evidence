@@ -24,4 +24,4 @@ The repository for the code behind the website can be found here: [Repo](https:/
 
 ## The Brochure
 
-A copy of the brochure itself is [here]().
+A copy of the brochure itself is [here](brochure.pdf).
